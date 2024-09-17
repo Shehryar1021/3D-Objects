@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    background-image: https: //file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/dell/3D%20Objects/restaurant.webp?version%3D1726571362576 ;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background-color: blue;
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: red;
+    height: 40px;
+}
+
+main {
+    background-color: orange;
+    height: 400px;
+}
+
+footer {
+    background-color: greenyellow;
+    height: 100px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
